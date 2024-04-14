@@ -48,6 +48,7 @@ The script trains each model on a portion of the data (training set) and assesse
 The script additionally checks for missing values in the data and compares the classification performance using features versus raw accelerometer data.
 
 ##Note
+
 This project offers a fundamental framework for activity recognition using time-series accelerometer data. You can further enhance the project by:
 
 *Experimenting with different feature sets.
